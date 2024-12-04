@@ -24,7 +24,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
--🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Java,MERN**
 
@@ -67,11 +67,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LKappagoda00&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LKappagoda00&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=heshanjeewantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LKappagoda00&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -83,7 +83,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/heshanjeewantha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/heshanjeewantha" /></a></p>
+<p><a href="https://www.buymeacoffee.com/LKappagoda00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/LKappagoda00" /></a></p>
 
 
 <!---
