@@ -25,7 +25,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I am currently learning **MERN**
+- 🌱 I am currently learning **JAVA**
 
 - 💬 Ask me about **Java,MERN**
 
